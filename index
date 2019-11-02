@@ -8,17 +8,33 @@ Email: /yangshuo_ut/ \[@\] utexas \[DOT\] edu
 ~~~
 
 == About me
-I am a first year PhD in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi]. My research interests include theoritical machine learning, optimization, and sequential decision making under uncertainty.
+I am a second year PhD in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi]. My research interests include theoritical machine learning, optimization, and sequential decision making under uncertainty.
 \n
 \n
-Before moving to Austin, I received the B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer in the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In the Spring 2017, I was an exchange student at University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group. You can refer to my [CV_ShuoYANG.pdf cv] for more detailed education and research experience.
+Before moving to Austin, I received the B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer in the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In the Spring 2017, I was an exchange student at University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group. You can refer to my [CV_ShuoYANG.pdf CV] for more detailed education and research experience.
+
+== Publications
+- Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-quadratic Time and Space  [publications/NeurIPS2019/IntHT.pdf \[pdf\]] [publications/NeurIPS2019/IntHT_poster.pdf \[poster\]] 
+\nShuo Yang, Yanyao Shen, Sujay Sanghavi
+\nAdvances in Neural Information Processing Systems (*NeurIPS*) 2019
+
+
+== Internships
+- Applied Scientist Intern | Amazon Search, Berkeley CA
+\n June 2019 - September 2019
+\n Customer search query understanding and inline search suggestion.
 
 
 == Graduate Courses
+- 2019 Fall
+-- EE 381V Online Learning ([http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html Prof. Sanjay Shakkottai])
+-- CS 388R Randomized Algorithm ([https://www.cs.utexas.edu/~ecprice/ Prof. Eric Price])
+-- CS 388  Natural Language Processing ([https://www.cs.utexas.edu/~gdurrett/ Prof. Greg Durrett])
+-- CS 395T Deep Learning Seminar ([http://www.philkr.net Prof. Philipp Krähenbühl])
 - 2019 Spring
--- EE381V Large-Scale Optimization II ([http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html Prof. Constantine Caramanis])
--- CS388G [https://www.cs.utexas.edu/users/plaxton/c/388g/19s/index.html Algorithms: Techniques and Theory] ([https://www.cs.utexas.edu/users/plaxton/courses.html Prof. Greg Plaxton])
+-- EE 381V Large-Scale Optimization II ([http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html Prof. Constantine Caramanis])
+-- CS 388G [https://www.cs.utexas.edu/users/plaxton/c/388g/19s/index.html Algorithms: Techniques and Theory] ([https://www.cs.utexas.edu/users/plaxton/courses.html Prof. Greg Plaxton])
 -- SDS384 Theoretical Statistics ([https://psarkar.github.io/index.html Prof. Purnamrita Sarkar])
 - 2018 Fall
--- EE381V Large-Scale Optimization I ([http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi])
--- EE381J Probability and Stochastic Process ([http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html Prof. Sanjay Shakkottai])
+-- EE 381V Large-Scale Optimization I ([http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi])
+-- EE 381J Probability and Stochastic Process ([http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html Prof. Sanjay Shakkottai])
