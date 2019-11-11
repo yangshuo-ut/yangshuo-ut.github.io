@@ -14,7 +14,7 @@ I am a second year PhD in the Department of Computer Science at the University o
 Before moving to Austin, I received the B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer in the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In the Spring 2017, I was an exchange student at University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group. You can refer to my [CV_ShuoYANG.pdf CV] for more detailed education and research experience.
 
 == Publications
-- Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-quadratic Time and Space  [publications/NeurIPS2019/IntHT.pdf \[pdf\]] [publications/NeurIPS2019/IntHT_poster.pdf \[poster\]] 
+- Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-quadratic Time and Space  [https://arxiv.org/abs/1911.03034 \[ArXiv\]] [publications/NeurIPS2019/IntHT_poster.pdf \[poster\]] 
 \nShuo Yang, Yanyao Shen, Sujay Sanghavi
 \nAdvances in Neural Information Processing Systems (*NeurIPS*) 2019
 
