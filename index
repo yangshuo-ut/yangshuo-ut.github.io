@@ -8,7 +8,7 @@ Email: /yangshuo_ut/ \[@\] utexas \[DOT\] edu
 ~~~
 
 == About me
-I am a second year PhD in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi]. My research interests include theoritical machine learning, optimization, and sequential decision making under uncertainty.
+I am a second year PhD in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi] and [https://www.cs.utexas.edu/users/inderjit/index.shtml Prof. Inderjit Dhillon]. My research interests include theoritical machine learning, optimization, and sequential decision making under uncertainty.
 \n
 \n
 Before moving to Austin, I received the B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer in the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In the Spring 2017, I was an exchange student at University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group. You can refer to my [CV_ShuoYANG.pdf CV] for more detailed education and research experience.
@@ -24,8 +24,19 @@ Before moving to Austin, I received the B.E. degree in the Department of Electri
 \n June 2019 - September 2019
 \n Customer search query understanding and inline search suggestion.
 
+- Student Researcher | Google, Austin TX (remote)
+\n June 2020 - September 2020
+\n Accelerate training for large deep learning model (BERT)
+
 
 == Graduate Courses
+- 2020 Fall
+-- EE381V Advanced Probability ([http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html Prof. Sanjay Shakkottai])
+-- CS395T Sublinear Algorithms ([https://www.cs.utexas.edu/~ecprice/ Prof. Eric Price])
+-- CS386W Wireless Networking ([https://www.cs.utexas.edu/~lili/ Prof. Lili Qiu])
+- 2020 Spring
+-- M 393C Markov Chains/Mixing Time ([https://web.ma.utexas.edu/users/jneeman/ Prof. Joe Neeman])
+-- EE 381V Statistical Machine Learning ([http://users.ece.utexas.edu/~hvikalo/ Prof. Haris Vikalo])
 - 2019 Fall
 -- EE 381V Online Learning ([http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html Prof. Sanjay Shakkottai])
 -- CS 388R Randomized Algorithm ([https://www.cs.utexas.edu/~ecprice/ Prof. Eric Price])
