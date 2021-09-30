@@ -8,27 +8,39 @@ Email: /yangshuo_ut/ \[@\] utexas \[DOT\] edu
 ~~~
 
 == About me
-I am a third year PhD in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi] and [https://www.cs.utexas.edu/users/inderjit/index.shtml Prof. Inderjit Dhillon]. My research interests include theoritical machine learning, optimization, and sequential decision making under uncertainty.
+I am a fourth year PhD in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi] and [https://www.cs.utexas.edu/users/inderjit/index.shtml Prof. Inderjit Dhillon]. My research interests include theoritical machine learning, optimization, and sequential decision making under uncertainty.
 \n
 \n
 Before moving to Austin, I received the B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer in the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In the Spring 2017, I was an exchange student at University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group. You can refer to my [CV_ShuoYANG.pdf CV] for more detailed education and research experience.
 
-== Publications
-- Achieving Sublinear Time Complexity for Linear Bandit Problem
-\n Shuo Yang, Tongzheng Ren, Sanjay Shakkottai, Inderjit Dhillon, Sujay Sanghavi
-\n / Under preparation, available upon request. /
-- Online Assortment Optimization without Strict Preference Order
-\nShuo Yang, Tongzheng Ren, Inderjit Dhillon, Sujay Sanghavi
-\n / Under preparation, available upon request. /
-- Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-quadratic Time and Space  [https://arxiv.org/abs/1911.03034 \[arXiv\]] [publications/NeurIPS2019/IntHT_poster.pdf \[poster\]] 
-\nShuo Yang, Yanyao Shen, Sujay Sanghavi
+== Publications and Preprints
+- Does Preprocessing Help Training Over-parameterized Neural Networks?
+\nZhao Song, *Shuo Yang*, Ruizhe Zhang (alphabetical order)
+\nAdvances in Neural Information Processing Systems (*NeurIPS*) 2021
+
+- Misspecified Contextual Combinatorial Bandits
+\n*Shuo Yang*, Rajat Sen, Sujay Sanghavi
+\nUnder review.
+
+- Achieving Sublinear Time Complexity for Linear Bandit Problem [https://arxiv.org/abs/2103.02729 \[arXiv\]]
+\n*Shuo Yang*, Tongzheng Ren, Sanjay Shakkottai, Inderjit S. Dhillon, Sujay Sanghavi
+
+- Combinatorial Bandits without Total Order for Arms [https://arxiv.org/abs/2103.02741 \[\arXiv\]]
+\n*Shuo Yang*, Tongzheng Ren, Inderjit S. Dhillon, Sujay Sanghavi
+
+- Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-quadratic Time and Space  [https://proceedings.neurips.cc/paper/2019/file/3c7417b8df0daf23f39f445e740c7a43-Paper.pdf \[paper\]] [publications/NeurIPS2019/IntHT_poster.pdf \[poster\]] 
+\n*Shuo Yang\**, Yanyao Shen\*, Sujay Sanghavi
 \nAdvances in Neural Information Processing Systems (*NeurIPS*) 2019
 
 
 == Internships
+- Applied Scientist Intern | Amazon Search, Palo Alto CA
+\n June 2021 - November 2021
+\n Ranking model distillation.
+
 - Student Researcher | Google, Austin TX (remote)
 \n June 2020 - September 2020
-\n Accelerate training for large deep learning model (BERT)
+\n Accelerate training for large deep learning model (BERT).
 
 - Applied Scientist Intern | Amazon Search, Berkeley CA
 \n June 2019 - September 2019
