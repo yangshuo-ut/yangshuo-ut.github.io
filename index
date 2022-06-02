@@ -8,22 +8,23 @@ Email: /yangshuo_ut/ \[@\] utexas \[DOT\] edu
 ~~~
 
 == About me
-I am a fourth-year Ph.D. student in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi] and [https://www.cs.utexas.edu/users/inderjit/index.shtml Prof. Inderjit Dhillon]. My research interests include theoretical machine learning, optimization, and sequential decision making under uncertainty.
+I am a fourth-year Ph.D. student in the Department of Computer Science at the University of Texas at Austin. I am fortunate to be advised by [http://users.ece.utexas.edu/~sanghavi/ Prof. Sujay Sanghavi]. My research interests include theoretical machine learning, optimization, and sequential decision making under uncertainty.
 \n
 \n
-Before moving to Austin, I received a B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer at the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In Spring 2017, I was an exchange student at the University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group. You can refer to my [CV_ShuoYANG.pdf CV] for more detailed education and research experience.
+Before moving to Austin, I received a B.E. degree in the Department of Electrical Engineering from [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University] in 2018. I also spent a great summer at the University of Alberta in 2017, working on reinforcement learning with [http://incompleteideas.net Prof. Richard Sutton]. In Spring 2017, I was an exchange student at the University of Texas at Austin, and working as an intern in [https://www.cs.utexas.edu/~pstone/ Prof. Peter Stone]'s research group.
 
 == Publications and Preprints
-- Does Preprocessing Help Training Over-parameterized Neural Networks?
+
+- Sample Efficiency of Data Augmentation Consistency Regularization [https://arxiv.org/abs/2202.12230 \[arXiv\]]
+\n*Shuo Yang\**, Yijun Dong\*, Rachel Ward, Inderjit S. Dhillon, Sujay Sanghavi, Qi Lei
+
+- Linear Bandit Algorithms with Sublinear Time Complexity [https://arxiv.org/abs/2103.02729 \[arXiv\]]
+\n*Shuo Yang*, Tongzheng Ren, Sanjay Shakkottai, Inderjit S. Dhillon, Sujay Sanghavi
+\nInternational Conference on Machine Learning (*ICML*) 2022
+
+- Does Preprocessing Help Training Over-parameterized Neural Networks? [https://proceedings.neurips.cc/paper/2021/file/c164bbc9d6c72a52c599bbb43d8db8e1-Paper.pdf \[paper\]]
 \nZhao Song, *Shuo Yang*, Ruizhe Zhang (alphabetical order)
 \nAdvances in Neural Information Processing Systems (*NeurIPS*) 2021
-
-- Misspecified Contextual Combinatorial Bandits
-\n*Shuo Yang*, Rajat Sen, Sujay Sanghavi
-\nUnder review.
-
-- Achieving Sublinear Time Complexity for Linear Bandit Problem [https://arxiv.org/abs/2103.02729 \[arXiv\]]
-\n*Shuo Yang*, Tongzheng Ren, Sanjay Shakkottai, Inderjit S. Dhillon, Sujay Sanghavi
 
 - Combinatorial Bandits without Total Order for Arms [https://arxiv.org/abs/2103.02741 \[\arXiv\]]
 \n*Shuo Yang*, Tongzheng Ren, Inderjit S. Dhillon, Sujay Sanghavi
@@ -34,6 +35,9 @@ Before moving to Austin, I received a B.E. degree in the Department of Electrica
 
 
 == Internships
+- Quant Research Intern | Jump Trading, Chicago IL
+\n June 2022 - August 2022
+
 - Applied Scientist Intern | Amazon Search, Palo Alto CA
 \n June 2021 - November 2021
 \n Ranking model distillation.
