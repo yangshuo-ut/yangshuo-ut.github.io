@@ -1,5 +1,5 @@
 #!bin/bash
-python jemdoc.py index
+python3 jemdoc.py index
 
 # add google analytics script
 insert_line=8
